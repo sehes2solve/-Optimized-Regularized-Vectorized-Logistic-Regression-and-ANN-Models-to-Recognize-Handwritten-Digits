@@ -1,0 +1,1 @@
+# Optimized-Regularized-Vectorized-One-vs-all-Logistic-Regression-and-ANN-Models-for-to-Recognize-Hand
